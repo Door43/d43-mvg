@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvg:home|Door43 (mvg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvg|d43-mvg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvg/archive/master.zip|d43-mvg.zip]]
+
+**Recent Changes**
+{{changes>ns = mvg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvg|Ethnologue data]]
+
